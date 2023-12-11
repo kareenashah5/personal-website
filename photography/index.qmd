@@ -1,0 +1,25 @@
+---
+title: "Photography"
+---
+
+
+In my free time, I enjoy travelling and taking pictures. My favorite vacation spot thus far has been Italy! Here are a few of my favorite shots! 
+
+::: {layout-ncol=2}
+
+![](IMG_1692.JPG)
+
+![](IMG_2847.jpg)
+
+
+![](IMG_0471.JPG)
+
+![](IMG_0870.JPG)
+
+
+![](21BA115D-A6B5-4B3F-B208-F89EA6BCF170.JPG)
+
+![](IMG_0646.jpg)
+
+:::
+

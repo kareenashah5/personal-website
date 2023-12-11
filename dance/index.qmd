@@ -1,0 +1,24 @@
+---
+title: Dance
+---
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://casekismat.wixsite.com/casekismat" role="button" target="_blank" style="padding: 15px 30px;">Case Kismat Fusion Dance Team</a>
+</div>
+```
+
+## Dance Videos
+
+### Buckeye Mela
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JkfYOeZqrpY?si=8cK9puRHBXlPsofb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I'm showcasing some funky dance moves in this video. Enjoy the rhythm and energy as I express myself through dance.
+
+### Aaj Ka Dhamaka
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olwJh5W2WCA?si=shXcVOITIp8GGQQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+In this video, I'm dancing with smooth and graceful moves. Join me in appreciating the beauty of dance and the joy it brings.
+
