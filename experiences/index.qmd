@@ -1,0 +1,13 @@
+---
+title: Experiences
+---
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://casekismat.wixsite.com/casekismat" role="button" target="_blank" style="padding: 15px 30px;">Case Kismat Fusion Dance Team</a>
+</div>
+```
+
+## Experiences
+
+Here is what I have done in my life
