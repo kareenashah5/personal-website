@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/kareena-shah-84217b1ab/
     - icon: envelope
       text: Email
-      href: "mailto:mail.kareenanshah@gmail.com" 
+      href: "mailto:kareenanshah@gmail.com" 
 ---
 
 ::: {#about-block}

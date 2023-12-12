@@ -24,13 +24,11 @@ website:
     
     # your social media handles
     right:
-      - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
       - icon: linkedin
         href: https://www.linkedin.com/in/kareena-shah-84217b1ab/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:kareenanshah@gmail.com"  
   
   
 
@@ -43,7 +41,7 @@ website:
       <span class="faux-block">&#169; 2023 Kareena Shah</span>
     center: |
     right: |
-      <span class="faux-block"><a href="mailto:mail.kareenanshah@gmail.com">Contact Me</a></span>
+      <span class="faux-block"><a href="mailto:kareenanshah@gmail.com">Contact Me</a></span>
 
 project:
   type: website
