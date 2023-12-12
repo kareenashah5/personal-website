@@ -7,25 +7,11 @@
     "text": "Download current CV"
   },
   {
-    "objectID": "experiences/index.html",
-    "href": "experiences/index.html",
+    "objectID": "cv/index.html#work-and-experiences",
+    "href": "cv/index.html#work-and-experiences",
     "title": "Experiences",
-    "section": "",
-    "text": "Case Kismat Fusion Dance Team"
-  },
-  {
-    "objectID": "experiences/index.html#experiences",
-    "href": "experiences/index.html#experiences",
-    "title": "Experiences",
-    "section": "Experiences",
-    "text": "Experiences\nHere is what I have done in my life"
-  },
-  {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
-    "section": "",
-    "text": "In my free time, I enjoy travelling and taking pictures. My favorite vacation spot thus far has been Italy! Here are a few of my favorite shots!"
+    "section": "Work and Experiences",
+    "text": "Work and Experiences\n\n  Insmile Dentistry, Dental Assistant\n  Location: Montgomery, NJ\n  Duration: June 2022 - Current\n  \nAssisted Dr. Purvi Desai with various dental procedures such as fillings, crowns, orthodontics, and extractions\n    Helped with infection control by sterilizing instruments and patient rooms and prepared materials and supplies for all patients\n  \n\n\n\n  CWRU School of Medicine, Pharmacology Research Lab Assistant\n  Location: Cleveland, OH\n  Duration: January 2022 - Present\n  \nWorked under Dr. Marvin Nieman to study the assembly of different receptor complexes and how they function at the molecular level to mediate platelet activation to understand blood clotting\n    Performed PCR gels, calcium assays, clot retraction assays, and platelet neutrophil aggregate experiments to understand the mechanisms of thrombin signaling and their role in platelet activation\n  \n\n\n\n  University Hospitals, Patient Care Nurse Assistant\n  Location: Cleveland, OH\n  Duration: June 2022 - January 2023\n  \nPerformed patient care activities such as vital signs, personal care, activities of daily living, physical therapy, patient transfers, and dressing changes\n    Listened to patients' health concerns and reported that information to nurses\n  \n\n\n\n\n  Kumon Tutor\n  Location: Montgomery, NJ\n  Duration: March 2018 - Present\n  \nTaught math skills such as algebra, geometry, and calculus to kids aged between 6-15\n    Graded all homework and exams and kept inventory of Kumon books"
   },
   {
     "objectID": "index.html",
@@ -33,6 +19,13 @@
     "title": "About Me!",
     "section": "",
     "text": "Case Kismat Dance\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Me!\nKareena Shah is a senior undergraduate student at Case Western Reserve University. She is currently studying Biology and is also pursuing her Masters in Public Health. Kareena is on the pre-dental track with hopes to attend dental school in the near future. Kareena has experience working as a dental assistant at a General Dentistry practice. She is also involved in a pharmacology research lab at the Case Western Reserve University School of Medicine. She is studying the blood platelets, specifically the PAR-4 receptor and its affect on the clotting cascade."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "In my free time, I enjoy travelling and taking pictures. My favorite vacation spot thus far has been Italy! Here are a few of my favorite shots!"
   },
   {
     "objectID": "dance/index.html",
@@ -46,6 +39,6 @@
     "href": "dance/index.html#dance-videos",
     "title": "Dance",
     "section": "Dance Videos",
-    "text": "Dance Videos\nThese videos were taken at national college dance competitions that took place at The Ohio State University and University of North Carolina. My team and I are showcasing many cultural dance styles at these competitions. Enjoy the rhythm and energy as I express myself through dance.\n\nBuckeye Mela\n\n\n\n\nAaj Ka Dhamaka"
+    "text": "Dance Videos\nThis video was taken at national college dance competition that took place at The University of North Carolina. My team and I are showcasing many cultural dance styles in this performance. Enjoy the rhythm and energy as I express myself through dance.\n\nAaj Ka Dhamaka"
   }
 ]

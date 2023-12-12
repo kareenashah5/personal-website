@@ -28,6 +28,12 @@ cv:
     width: 100%;
     height: 100%;
 }
+.timeline-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  background-color: #f9f9f9;
+}
 ```
 
 ```{=html}
@@ -36,9 +42,50 @@ cv:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
   </a>
 </p>
-<div class="embed-container">
-  <iframe src="`r rmarkdown::metadata$cv$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
-</div>
 ```
 
+## Work and Experiences
 
+```{=html}
+<div class="timeline-card">
+  <h3>Insmile Dentistry, Dental Assistant</h3>
+  <p><strong>Location:</strong> Montgomery, NJ</p>
+  <p><strong>Duration:</strong> June 2022 - Current</p>
+  <ul>
+    <li>Assisted Dr. Purvi Desai with various dental procedures such as fillings, crowns, orthodontics, and extractions</li>
+    <li>Helped with infection control by sterilizing instruments and patient rooms and prepared materials and supplies for all patients</li>
+  </ul>
+</div>
+
+<div class="timeline-card">
+  <h3>CWRU School of Medicine, Pharmacology Research Lab Assistant</h3>
+  <p><strong>Location:</strong> Cleveland, OH</p>
+  <p><strong>Duration:</strong> January 2022 - Present</p>
+  <ul>
+    <li>Worked under Dr. Marvin Nieman to study the assembly of different receptor complexes and how they function at the molecular level to mediate platelet activation to understand blood clotting</li>
+    <li>Performed PCR gels, calcium assays, clot retraction assays, and platelet neutrophil aggregate experiments to understand the mechanisms of thrombin signaling and their role in platelet activation</li>
+  </ul>
+</div>
+
+<div class="timeline-card">
+  <h3>University Hospitals, Patient Care Nurse Assistant</h3>
+  <p><strong>Location:</strong> Cleveland, OH</p>
+  <p><strong>Duration:</strong> June 2022 - January 2023</p>
+  <ul>
+    <li>Performed patient care activities such as vital signs, personal care, activities of daily living, physical therapy, patient transfers, and dressing changes</li>
+    <li>Listened to patients' health concerns and reported that information to nurses</li>
+  </ul>
+</div>
+
+
+<div class="timeline-card">
+  <h3>Kumon Tutor</h3>
+  <p><strong>Location:</strong> Montgomery, NJ</p>
+  <p><strong>Duration:</strong> March 2018 - Present</p>
+  <ul>
+    <li>Taught math skills such as algebra, geometry, and calculus to kids aged between 6-15</li>
+    <li>Graded all homework and exams and kept inventory of Kumon books</li>
+  </ul>
+</div>
+
+```
